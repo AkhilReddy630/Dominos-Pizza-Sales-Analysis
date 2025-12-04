@@ -162,13 +162,13 @@ If sales remain low, retire the bottom performers to reduce inventory waste.
 
  🛠️ 6. Tech Stack Used
 
-| Component                        Tools                              
+ Component                        Tools                              
  
-| Database & Querying          SQL Server           
-| Data Cleaning & Aggregation  Null checks, date extraction, CAST-based type conversion, CTEs for readable queries, DISTINCT to prevent duplicates .         
-| Analysis                     Excel (Pivot Tables, Calculations) 
-| Visualization                Excel Charts & Dashboard Design    
-| Version Control              Git & GitHub                       
+ Database & Querying          SQL Server           
+ Data Cleaning & Aggregation  Null checks, date extraction, CAST-based type conversion, CTEs for readable queries, DISTINCT to prevent duplicates .         
+ Analysis                     Excel (Pivot Tables, Calculations) 
+ Visualization                Excel Charts & Dashboard Design    
+ Version Control              Git & GitHub                       
 
 
 
